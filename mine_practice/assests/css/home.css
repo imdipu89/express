@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+p{
+    color: black;
+    text-transform: uppercase;
+}
+.class1{
+background-color: yellow;
+text-align: center;
+}
